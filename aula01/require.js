@@ -1,5 +1,5 @@
 // criar um servidor web
-
+// Require é uma caracteristica nativamente reporta dependências no node.
 const http = require('http');
 
 // arrow function
